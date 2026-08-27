@@ -224,4 +224,4 @@ The screenshot below shows Windows Setup actively installing the operating syste
 
 # Step 13 – Successful Domain Join to company.local Domain
 The screenshot below shows the successful completion of the domain join process. Windows displays the message **"Welcome to the company.local domain,"** confirming that the Windows 10 client successfully authenticated with the domain controller and joined the Active Directory domain.
-![Step 13-domain-join-success](images/step13-domain-join-success.png)
+![Step 13- Domain Join Success](images/step13-domain-join-success.png)

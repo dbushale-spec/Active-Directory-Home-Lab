@@ -40,7 +40,7 @@ To build a realistic Windows Server environment and gain hands-on experience wit
 - [X] Reset User Passwords
 - [X] Disable User Accounts
 - [X] Create Windows 10 Client
-- [ ] Join Client To Domain
+- [X] Join Client To Domain
 - [ ] Configure Group Policy
 
 ---
@@ -118,6 +118,11 @@ I installed Windows 10 on the Client Virtual Machine using the Windows 10 ISO fi
 ## What I Learned
 I learned how to deploy a Windows 10 operating system within a virtualised environment using Oracle VirtualBox. I gained practical experience with the Windows Setup wizard, operating system selection, storage configuration, and the installation stages required to prepare a client machine for use within an Active Directory environment.
 
+# Step 13 – Join Windows 10 Client to Active Directory Domain
+## What I Did
+I joined the Windows 10 client machine to the **company.local** Active Directory domain hosted on DC01. During the process, I experienced several issues related to network communication and authentication. I verified the client's network settings, DNS configuration, and connectivity to the domain controller to ensure both virtual machines were communicating correctly. After troubleshooting the connection and testing different domain administrator credential formats, I successfully authenticated with the domain controller and completed the domain join process. The operation was confirmed when Windows displayed the message **"Welcome to the company.local domain."**
+## What I Learned
+I learned how to join a Windows client computer to an Active Directory domain and the importance of proper DNS and network configuration for domain communication. I also learned how to troubleshoot domain join failures by checking IP addressing, connectivity, and authentication settings. This task helped me better understand the relationship between Active Directory, DNS, and client computers, as well as the importance of using the correct domain administrator credentials when joining a machine to a domain.
 
 ---
 
@@ -217,4 +222,6 @@ The screenshot below shows the installation configuration screen where the virtu
 The screenshot below shows Windows Setup actively installing the operating system onto the virtual hard disk.
 ![Install Windows 10](Step%2012.7%20-%20Install%20Windows%2010.png)
 
-
+# Step 13 – Successful Domain Join to company.local Domain
+The screenshot below shows the successful completion of the domain join process. Windows displays the message **"Welcome to the company.local domain,"** confirming that the Windows 10 client successfully authenticated with the domain controller and joined the Active Directory domain.
+![Step 13-domain-join-success](images/step13-domain-join-success.png)

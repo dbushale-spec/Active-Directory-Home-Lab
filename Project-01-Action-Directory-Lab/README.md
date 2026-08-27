@@ -118,6 +118,7 @@ I installed Windows 10 on the Client Virtual Machine using the Windows 10 ISO fi
 ## What I Learned
 I learned how to deploy a Windows 10 operating system within a virtualised environment using Oracle VirtualBox. I gained practical experience with the Windows Setup wizard, operating system selection, storage configuration, and the installation stages required to prepare a client machine for use within an Active Directory environment.
 
+
 ---
 
 ## Screenshots / Evidence

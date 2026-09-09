@@ -1,7 +1,21 @@
 # Active Directory Home Lab
+## Overview
+This project simulates a real-world Windows Server environment using Windows Server 2022 and Windows 10 in VirtualBox.
+
+The lab includes:
+
+- Domain Controller deployment
+- Active Directory configuration
+- Organizational Units (OUs)
+- User and Group Management
+- Password Reset Procedures
+- Account Lockout Troubleshooting
+- Domain Joining
+- Group Policy Configuration
+
+This project was completed to develop practical IT Support and Help Desk skills commonly used in enterprise environments.
 
 ## Project Goal
-
 ### To build a realistic Windows Server environment and gain hands-on experience with tasks commonly performed by IT Support and Help Desk professionals.
 ---
 

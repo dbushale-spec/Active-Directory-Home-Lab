@@ -13,9 +13,9 @@ This repository documents a hands-on Active Directory home lab built using Windo
 - Domain Joining
 - IT Support Troubleshooting
 
-## Project Included
+## Project
 
-### Project 01 - Active Directory Home Lab
+### Active Directory Home Lab
 
 A complete Windows Server environment featuring:
 

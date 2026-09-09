@@ -3,19 +3,23 @@
 ## Project Goal
 
 To build a realistic Windows Server environment and gain hands-on experience with tasks commonly performed by IT Support and Help Desk professionals.
+---
 
+## Project Summary
+
+This project simulates a small enterprise Active Directory environment using Windows Server 2022 and Windows 10 in VirtualBox. The lab includes the deployment of a domain controller, Active Directory configuration, organizational units, user and group management, password administration, domain joining, and Group Policy implementation. The project was designed to develop practical IT support and system administration skills commonly used in enterprise environments.
 ---
 
 ## Skills Demonstrated
 
-- Windows Server Administration
-- Active Directory
-- User Management
-- Security Groups
-- Password Resets
-- Account Administration
-- Group Policy
-- Troubleshooting
+- Windows Server 2022 Administration
+- Active Directory User & Group Management
+- Account Provisioning & Deprovisioning
+- Password Reset & Account Recovery
+- Group Policy Management
+- Windows 10 Domain Join
+- Security Group Administration
+- Troubleshooting & Documentation
 
 ---
 

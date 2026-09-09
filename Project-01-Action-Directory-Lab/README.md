@@ -45,15 +45,6 @@ This project was completed to develop practical IT Support and Help Desk skills 
 
 ---
 
-## Technologies Used
-
-- VirtualBox
-- Windows Server 2022
-- Windows 10
-- Active Directory Domain Services
-
----
-
 ## Progress Tracker
 
 - [X] Install VirtualBox

@@ -44,6 +44,18 @@ This project was completed to develop practical IT Support and Help Desk skills 
 - Troubleshooting & Documentation
 
 ---
+## IT Support Tasks Performed
+
+- Created and managed Active Directory user accounts
+- Created Organizational Units (OUs)
+- Managed security groups and permissions
+- Performed password resets
+- Disabled and enabled user accounts
+- Joined Windows 10 client to a domain
+- Configured Group Policy settings
+- Troubleshot user account and domain issues
+
+---
 
 ## Progress Tracker
 
@@ -59,6 +71,18 @@ This project was completed to develop practical IT Support and Help Desk skills 
 - [X] Create Windows 10 Client
 - [X] Join Client To Domain
 - [X] Configure Group Policy
+
+---
+
+## Key Achievements
+
+- Built a Windows Server 2022 Active Directory lab from scratch
+- Configured a Domain Controller and Active Directory Domain Services
+- Created and managed users, groups and Organizational Units
+- Performed password resets and account administration tasks
+- Joined a Windows 10 client machine to the domain
+- Configured Group Policy settings
+- Documented the complete setup process with screenshots
 
 ---
 

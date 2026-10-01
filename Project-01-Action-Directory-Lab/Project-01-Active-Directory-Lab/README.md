@@ -176,11 +176,11 @@ I learned how Group Policy enables administrators to centrally manage and enforc
 ## Screenshots / Evidence
 ### Step 1 - VirtualBox Successfully Installed
 Oracle VirtualBox was successfully installed and is ready to host the Windows Server virtual machine.
-![VirtualBox Successfully Installed](01-virtualbox-installed.png)
+![VirtualBox Successfully Installed](../01-virtualbox-installed.png)
 
 ### Step 2 - Windows Server 2022 ISO Downloaded
 The Windows Server 2022 Evaluation ISO was downloaded successfully from Microsoft.
-![Windows Server 2022 ISO Downloaded](02-windows-server-2022-iso.png)
+![Windows Server 2022 ISO Downloaded](../02-windows-server-2022-iso.png)
 
 ### Step 3 - Windows Server Installation Complete
 Windows Server 2022 installation completed successfully, and the server booted to the desktop.
